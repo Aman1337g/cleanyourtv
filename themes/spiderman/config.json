@@ -5,10 +5,6 @@
     "com.amazon.amazonvideo.livingroom",
     "in.startv.hotstar"
   ],
-  "hidden_apps": [
-    "com.mediatek.wwtv.tvcenter",
-    "com.mitv.gallery"
-  ],
   "columns": 4,
   "rows_below_dock": 0,
   "background_color": "#000000",
